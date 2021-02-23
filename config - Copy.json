@@ -1,0 +1,15 @@
+{
+  "token": "",
+  "password": "",
+  "prefix": "$",
+  "streamurl": "",
+  "afkmessage": "Sorry, I am not here right now, DM me later :)",
+  "afkimageurl": "image-url-here",
+  "deletetimer": "40",
+  "mode": "1",
+  "errorlog": "message",
+  "riskmode": "on",
+  "dmlogger": "off",
+  "theme": "Hoover.json",
+  "language": "english.json"
+}
