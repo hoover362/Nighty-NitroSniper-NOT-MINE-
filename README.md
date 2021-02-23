@@ -1,2 +1,1 @@
-# Nighty-NitroSniper-NOT-MINE-
-hi
+Put ur token in the config
